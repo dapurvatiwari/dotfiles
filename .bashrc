@@ -124,7 +124,7 @@ set clipboard=unnamed
 export SPACK_ROOT=/home/apurva/spack
 export PATH="$SPACK_ROOT/bin:$PATH"
 
-set editing-mode vi
+set -o vi
 
 #if [ -f `which powerline-daemon` ]; then
 	  #powerline-daemon -q
