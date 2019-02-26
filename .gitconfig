@@ -1,6 +1,6 @@
 [user]
-	eail = d.apurva94@gmail.com
-	email = d.apurva94@gmail.com
 	name = Apurva Tiwari
+	email = d.apurva94@gmail.com
 [core]
-	editor = vi
+	autocrlf = input
+	editor = vim
